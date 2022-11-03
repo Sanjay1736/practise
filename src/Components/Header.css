@@ -1,0 +1,18 @@
+.head {
+  background-color: darkgrey;
+  padding: 0.5rem;
+  text-align: center;
+}
+.elements {
+  margin-right: 15px;
+  height: 250px;
+  width: 100px;
+  border: solid black 1px;
+  display: flex;
+  align-items: center;
+}
+#footer {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
