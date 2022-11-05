@@ -16,3 +16,7 @@
   text-align: center;
   justify-content: space-evenly;
 }
+.container > .elements {
+  display: flex;
+  justify-content: space-between;
+}
