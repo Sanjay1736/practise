@@ -10,7 +10,7 @@ export function ArrayAsStates() {
     <>
       <div>
         <h1>ArrayVsStates</h1>
-        <div>ArrayValues{number}</div>
+        <div>ArrayValues{number.join(" ")}</div>
         <button onClick={addValue}>Add Value</button>
       </div>
     </>
